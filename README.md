@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Naturalhg
+- 👀 I’m interested in development
+- 🌱 I’m currently learning html, css, php, javascript, C, python
+- 💞️ I’m looking to collaborate on the development of websites and video games
+- 📫 How to reach me : 
+   -   nolan.toussaint77@gmail.com
+   -   0613215761
