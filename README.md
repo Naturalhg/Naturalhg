@@ -4,4 +4,3 @@
 - 💞️ I’m looking to collaborate on the development of websites and video games
 - 📫 How to reach me : 
    -   nolan.toussaint77@gmail.com
-   -   0613215761
